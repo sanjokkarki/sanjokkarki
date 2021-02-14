@@ -12,9 +12,9 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 ![Sanjok's github stats](https://github-readme-stats.vercel.app/api?username=sanjokkarki&show_icons=true&theme=solarized-light)
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
-
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sanjokkarki/sanjokkarki/main/sanjokkarki.png" alt="TryHackMe-Bagde">
-
+<br>
 💻    &nbsp; Cyber Security Enthusiast.<br />
 ✍🏻   &nbsp;  Ethical Hacking, Bug Bounty Hunting and Technology Geek.<br />
 🔭   &nbsp;  Currently focused on Web Exploitation, OSINT, Cryptography, Stenography, Binary Exploitation, Forensics, Reverse Engineering, Programming, Packet Analysis, Miscellaneous.<br/>
