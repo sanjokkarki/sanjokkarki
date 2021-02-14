@@ -19,12 +19,15 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
 🤔    &nbsp; I love to take an adventure on new techs. <3<br/>
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br/>
-⛳   &nbsp;  I participate in CTFs and practice in TryHackMe regularly. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.tryhackme.com/p/sanjokkarki](https://www.tryhackme.com/p/sanjokkarki)<br/>
+⛳   &nbsp;  I participate in CTFs and practice in TryHackMe regularly. &nbsp;&nbsp;&nbsp;[https://www.tryhackme.com/p/sanjokkarki](https://www.tryhackme.com/p/sanjokkarki)<br/>
 👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/sanjokkarki/](https://www.linkedin.com/in/sanjokkarki/)<br/>
 📫    &nbsp; How to reach me: sanjokkarki9@gmail.com<br />
 🌏    &nbsp; Please Visit my Portfolio for more details -> [https://www.sanjokkarki.com.np](https://www.sanjokkarki.com.np)<br/>
 🌏    &nbsp; Please Visit my Tech Website for News and Update-> [https://thesanjok.tech/](https://thesanjok.tech/)<br/>
 
+<div>
+<script src="https://tryhackme.com/badge/197100"></script>
+</div>
 
 ---------------------------
 <div>
