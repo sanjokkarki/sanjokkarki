@@ -1,13 +1,13 @@
 ### Hey! there 👋
 
 I'm a Cyber Security enthusiast. I'm a college student with a knack for programming, learning more and more everyday. I mostly participate in CTFs. <br>
-![GitHub followers](https://img.shields.io/github/followers/sanjokkarki?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sanjokkarki) 
+[![GitHub followers](https://img.shields.io/github/followers/sanjokkarki?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sanjokkarki) 
 [![Years Badge](https://badges.pufler.dev/years/sanjokkarki)](https://badges.pufler.dev/years/sanjokkarki)
 [![Repos Badge](https://badges.pufler.dev/repos/sanjokkarki)](https://badges.pufler.dev/repos/sanjokkarki)
 [![Updated Badge](https://badges.pufler.dev/updated/sanjokkarki/sanjokkarki)](https://badges.pufler.dev/updated/sanjokkarki)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sanjokkarki)](https://badges.pufler.dev/commits/monthly/sanjokkarki)
 ```
-Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
+Ethical Hacker (noun): A person who hacks into a computer network in order to test or evaluate its security, rather than with malicious or criminal intent. 😉
 ```
 ![Sanjok's github stats](https://github-readme-stats.vercel.app/api?username=sanjokkarki&show_icons=true&theme=solarized-light)
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
