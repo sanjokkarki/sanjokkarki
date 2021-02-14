@@ -13,6 +13,12 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
 
+<html>
+  <div>
+    <script src="https://tryhackme.com/badge/197100"></script>
+  </div>
+  </html>
+
 💻    &nbsp; Cyber Security Enthusiast.<br />
 ✍🏻   &nbsp;  Ethical Hacking, Bug Bounty Hunting and Technology Geek.<br />
 🔭   &nbsp;  Currently focused on Web Exploitation, OSINT, Cryptography, Stenography, Binary Exploitation, Forensics, Reverse Engineering, Programming, Packet Analysis, Miscellaneous.<br/>
@@ -24,10 +30,6 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 📫    &nbsp; How to reach me: sanjokkarki9@gmail.com<br />
 🌏    &nbsp; Please Visit my Portfolio for more details -> [https://www.sanjokkarki.com.np](https://www.sanjokkarki.com.np)<br/>
 🌏    &nbsp; Please Visit my Tech Website for News and Update-> [https://thesanjok.tech/](https://thesanjok.tech/)<br/>
-
-<div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/sanjokkarki.png" alt="TryHackMe">
-</div>
 
 ---------------------------
 <div>
