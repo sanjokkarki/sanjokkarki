@@ -14,12 +14,11 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 <p align="center">
   <a href="https://sanjokkarki.com.np"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:TheSanjok@protonmail.ch"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.facebook.com/sanjokkarki08"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://twitter.com/sanjokkarki08"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="mailto:Sanjok Karki#3830"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://www.linkedin.com/in/sanjokkarki"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:Sanjok Karki#3830"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://www.facebook.com/sanjokkarki08"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/ig_sanjok"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.bugcrowd.com/thesanjok"><img src="https://img.icons8.com/color/96/000000/hackerone.png" alt="bugcrowd"/></a>
+  <a href="https://twitter.com/sanjokkarki08"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
 <br>
 
