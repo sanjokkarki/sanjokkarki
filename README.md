@@ -10,7 +10,7 @@ I'm a Cyber Security enthusiast. I'm a college student with a knack for programm
 Ethical Hacker (noun): A person who hacks into a computer network in order to test or evaluate its security, rather than with malicious or criminal intent. 😉
 ```
 ![Sanjok's github stats](https://github-readme-stats.vercel.app/api?username=sanjokkarki&show_icons=true&theme=solarized-light)
-  <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
+  <img align="right" src="https://github.com/sanjokkarki/sanjokkarki/code.gif" width="300" height="300"/>
 </p>
 <br>
 
