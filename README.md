@@ -2,7 +2,8 @@
 
 I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with a knack for programming, learning more and more everyday.   I mostly participate in CTFs and Bug Bounty Programs. <br>
 <br>
-![GitHub followers](https://img.shields.io/github/followers/sanjokkarki?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sanjokkarki) 
+![GitHub followers](https://img.shields.io/github/followers/sanjokkarki?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sanjokkarki)
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sanjokkarki)](https://visitor-badge.glitch.me/badge?page_id=sanjokkarki)
 [![Years Badge](https://badges.pufler.dev/years/sanjokkarki)](https://badges.pufler.dev/years/sanjokkarki)
 [![Repos Badge](https://badges.pufler.dev/repos/sanjokkarki)](https://badges.pufler.dev/repos/sanjokkarki)
 [![Updated Badge](https://badges.pufler.dev/updated/sanjokkarki/sanjokkarki)](https://badges.pufler.dev/updated/sanjokkarki)
@@ -10,6 +11,17 @@ I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with 
 ```
 Ethical Hacker (noun): A person who hacks into a computer network in order to test or evaluate its security, rather than with malicious or criminal intent. 😉
 ```
+<p align="center">
+  <a href="https://sanjokkarki.com.np"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:TheSanjok@protonmail.ch"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.facebook.com/sanjokkarki08"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/sanjokkarki08"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="mailto:Sanjok Karki#3830"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href="https://www.linkedin.com/in/sanjokkarki"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/ig_sanjok"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+</p>
+<br>
+
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=sanjokkarki&show_icons=true&theme=gotham" alt="sanjokkarki" />
 <img align="left" alt="GIF" src="code1.gif" width="400" height="300" />
 <img align="center" src="https://raw.githubusercontent.com/sanjokkarki/sanjokkarki/main/sanjokkarki.png" alt="TryHackMe-Bagde">
