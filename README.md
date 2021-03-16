@@ -17,8 +17,7 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 <br>
 <br>
 <p align="center">----->>Read about me<<-----</p>
-&nbsp;&nbsp;
-💻    &nbsp; Cyber Security Enthusiast.<br />
+💻   &nbsp; Cyber Security Enthusiast.<br />
 ✍🏻   &nbsp;  Ethical Hacking, Bug Bounty Hunting and Technology Geek.<br />
 🔭   &nbsp;  Currently focused on Web Exploitation, OSINT, Cryptography, Stenography, Binary Exploitation, Forensics, Reverse Engineering, Programming, Packet Analysis, Miscellaneous.<br/>
 👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
