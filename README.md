@@ -38,7 +38,7 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 🤔    &nbsp; I love to take an adventure on new techs. <3<br/>
 ⚡️    &nbsp; I’m ready to take up new technical challenges.<br/>
 ⛳   &nbsp;  I participate in CTFs and practice in <a href="https://tryhackme.com/p/sanjokkarki">TryHackMe</a><br />
-🌏    &nbsp; Please Visit my Tech Website for Cyber News and my writeups. -> https://thesanjok.tech/ <br/>
+🌏    &nbsp; Please Visit my Tech Website for Cyber News and my writeups. -> <a href="https://thesanjok.tech">🌏TheSanjok🌏</a> <br/>
 
 
 
