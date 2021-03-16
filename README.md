@@ -1,6 +1,6 @@
 ### Hey! there 👋
 
-I'm a Cyber Security enthusiast. I'm a college student with a knack for programming, learning more and more everyday. I mostly participate in CTFs. <br>
+I'm a Cyber Security enthusiast(Ethical Hacker😉 ). I'm a college student with a knack for programming, learning more and more everyday. I mostly participate in CTFs and Bug bounty programs. <br>
 ![GitHub followers](https://img.shields.io/github/followers/sanjokkarki?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sanjokkarki) 
 [![Years Badge](https://badges.pufler.dev/years/sanjokkarki)](https://badges.pufler.dev/years/sanjokkarki)
 [![Repos Badge](https://badges.pufler.dev/repos/sanjokkarki)](https://badges.pufler.dev/repos/sanjokkarki)
