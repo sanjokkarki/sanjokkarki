@@ -1,40 +1,3 @@
-wrapper { 
-  height: 100%;
-  width: 100%;
-  left:0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  position: absolute;
-background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
-background-size: 1800% 1800%;
-
--webkit-animation: rainbow 18s ease infinite;
--z-animation: rainbow 18s ease infinite;
--o-animation: rainbow 18s ease infinite;
-  animation: rainbow 18s ease infinite;}
-
-@-webkit-keyframes rainbow {
-    0%{background-position:0% 82%}
-    50%{background-position:100% 19%}
-    100%{background-position:0% 82%}
-}
-@-moz-keyframes rainbow {
-    0%{background-position:0% 82%}
-    50%{background-position:100% 19%}
-    100%{background-position:0% 82%}
-}
-@-o-keyframes rainbow {
-    0%{background-position:0% 82%}
-    50%{background-position:100% 19%}
-    100%{background-position:0% 82%}
-}
-@keyframes rainbow { 
-    0%{background-position:0% 82%}
-    50%{background-position:100% 19%}
-    100%{background-position:0% 82%}
-}
-<div class="wrapper">
 ### Hey! there 👋
 
 I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with a knack for programming, learning more and more everyday.   I mostly participate in CTFs and Bug Bounty Programs. <br>
@@ -76,9 +39,45 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 🌏    &nbsp; Please Visit my Tech Website for Cyber News and my writeups. -> <a href="https://thesanjok.tech">🌏TheSanjok🌏</a> <br/>
 
 
+wrapper { 
+  height: 100%;
+  width: 100%;
+  left:0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+background-size: 1800% 1800%;
+
+-webkit-animation: rainbow 18s ease infinite;
+-z-animation: rainbow 18s ease infinite;
+-o-animation: rainbow 18s ease infinite;
+  animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
 
 ---------------------------
-<div>
+<div class="wrapper">
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/20cffd2088b2895f833a332310e9a6596589205b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e"><img src="https://camo.githubusercontent.com/20cffd2088b2895f833a332310e9a6596589205b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=Python" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ecaa192b7b132b9bfe5e07dd408ecab68e12de66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661"><img src="https://camo.githubusercontent.com/ecaa192b7b132b9bfe5e07dd408ecab68e12de66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/-java-E34A86?style=flat-square&amp;logo=java" style="max-width:100%;"></a>
