@@ -1,8 +1,9 @@
 
 <p><img align="center" src="footer-logo.png" alt="logo-TheSanjok">
 </p>
-### Hey! there 👋
 
+### Hey! there 👋
+<br>
 I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with a knack for programming, learning more and more everyday.   I mostly participate in CTFs and Bug Bounty Programs. <br>
 <br>
 ![GitHub followers](https://img.shields.io/github/followers/sanjokkarki?label=Follow&style=social) ![Profile views](https://gpvc.arturio.dev/sanjokkarki)
