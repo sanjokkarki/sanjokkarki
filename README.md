@@ -1,3 +1,40 @@
+wrapper { 
+  height: 100%;
+  width: 100%;
+  left:0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+background-size: 1800% 1800%;
+
+-webkit-animation: rainbow 18s ease infinite;
+-z-animation: rainbow 18s ease infinite;
+-o-animation: rainbow 18s ease infinite;
+  animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+<div class="wrapper">
 ### Hey! there 👋
 
 I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with a knack for programming, learning more and more everyday.   I mostly participate in CTFs and Bug Bounty Programs. <br>
@@ -58,4 +95,5 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ca7c6a9834841fccaa75227ecbebfd445ae75530/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4469676974616c2532304f6365616e2d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6469676974616c6f6365616e"><img src="https://camo.githubusercontent.com/ca7c6a9834841fccaa75227ecbebfd445ae75530/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4469676974616c2532304f6365616e2d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6469676974616c6f6365616e" alt="DigitalOcean" data-canonical-src="https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&amp;logo=digitalocean" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773"><img src="https://camo.githubusercontent.com/aeb3c6037ff10d02e76bffb837b78817b0993a6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773" alt="Amazon AWS" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws" style="max-width:100%;"></a> -->
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
+</div>
 </div>
