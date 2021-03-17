@@ -1,4 +1,4 @@
-<p><img src="footer-logo.png" alt="logo-TheSanjok">
+<a href="https://sanjokkarki.com.np"><p><img src="footer-logo.png" alt="logo-TheSanjok"></a>
 </p>
 
 ### Hey! there 👋
