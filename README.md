@@ -22,7 +22,7 @@ Ethical Hacker (noun): A person who hacks into a computer network in order to te
 </p>
 <br>
 
-<p><img align="left" alt="GIF" src="code1.gif" width="371" height="250" /></p>
+<p><a href="https://bugcrowd.com/thesanjok"><img align="left" alt="GIF" src="code1.gif" width="371" height="250" /></p></a>
 <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjokkarki&show_icons=true&theme=gotham" alt="sanjokkarki" width="440" height="340" /></p>
 <br><br>
 <p><a href="https://tryhackme.com/p/sanjokkarki"><img src="https://raw.githubusercontent.com/sanjokkarki/sanjokkarki/main/sanjokkarki.png" alt="TryHackMe-Bagde"></a>
