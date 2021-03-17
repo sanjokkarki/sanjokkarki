@@ -1,7 +1,7 @@
-### Hey! there 👋
 
 <p><img align="center" src="footer-logo.png" alt="logo-TheSanjok">
 </p>
+### Hey! there 👋
 
 I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with a knack for programming, learning more and more everyday.   I mostly participate in CTFs and Bug Bounty Programs. <br>
 <br>
