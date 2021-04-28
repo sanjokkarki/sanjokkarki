@@ -7,7 +7,6 @@ I'm a Cyber Security enthusiast(Ethical Hacker😉). I'm a college student with 
 [![Years Badge](https://badges.pufler.dev/years/sanjokkarki)](https://badges.pufler.dev/years/sanjokkarki)
 [![Repos Badge](https://badges.pufler.dev/repos/sanjokkarki)](https://badges.pufler.dev/repos/sanjokkarki)
 [![Updated Badge](https://badges.pufler.dev/updated/sanjokkarki/sanjokkarki)](https://badges.pufler.dev/updated/sanjokkarki)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/sanjokkarki)](https://badges.pufler.dev/commits/monthly/sanjokkarki)
 ```
 Ethical Hacker (noun): A person who hacks into a computer network in order to test or evaluate its security, rather than with malicious or criminal intent. 😉
 ```
